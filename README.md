@@ -1,38 +1,38 @@
-# 👋 Hi, I'm an Aspiring Software Developer!
+# 👋 Hi, I'm Anuj Sahu!
 
-🎓 I'm a student passionate about software development, problem-solving, and building real-world applications.
+🎓 BCA Student | Aspiring Software Developer
 
-### 💻 Technical Skills
+I'm a passionate Computer Applications student interested in software development, full-stack web development, and problem-solving. I enjoy learning new technologies and building practical projects.
 
-- **Languages:** C, C++, JavaScript
-- **Frontend:** HTML5, CSS3, React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+### 💻 Tech Stack
 
-### 🚀 What I'm Working On
+**Programming Languages**
+- C
+- C++
+- JavaScript
 
-- Building projects to strengthen my development skills.
-- Improving my problem-solving and programming abilities.
-- Exploring full-stack web development.
-- Learning industry best practices and writing clean, maintainable code.
+**Frontend Development**
+- HTML5
+- CSS3
+- React.js
 
-### 🎯 My Goals
+**Backend Development**
+- Node.js
+- Express.js
 
-- Become a skilled software developer.
-- Build impactful and practical applications.
-- Find opportunities to grow as a developer.
-- Contribute to open-source projects and collaborate with other developers.
+**Database**
+- MongoDB
 
-### 🤝 Let's Connect!
+### 🚀 What I'm Currently Doing
+- Learning full-stack web development.
+- Building real-world projects.
+- Improving my Data Structures and Algorithms skills.
+- Practicing problem-solving and writing clean code.
 
-I'm always open to learning, collaboration, internships, and exciting opportunities.
+### 🎯 Career Goals
+- Become a skilled Software Developer.
+- Gain practical industry experience.
+- Secure a software development internship.
+- Contribute to open-source projects.
 
-### 📊 Current Focus
-
-- 🌱 Learning and improving my development skills.
-- 💡 Turning ideas into practical projects.
-- 🎯 Preparing for software development opportunities.
-
----
-
-**"Consistency, curiosity, and code — one step closer every day."** 🚀
+⭐ *Learning, Building, Improving — One Commit at a Time!* 🚀
